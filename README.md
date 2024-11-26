@@ -19,3 +19,5 @@
   - [QAPs](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
   - [Elliptic curve pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
   - [zk-SNARKs: Under the hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
+
+- [LambdaClass - how to transform code into arithmetic circuits](https://blog.lambdaclass.com/how-to-transform-code-into-arithmetic-circuits/)
